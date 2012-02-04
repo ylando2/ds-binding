@@ -5,8 +5,8 @@ I love the way the arc language destruction binding work.
 So I build one myself. I try two different approach. I thing that the
 more functional is faster.
 
-In this module there are 3 macros in two different versions.
-I have ds-let, ds-set! and ds-define.
+In this module there are three macros in two different versions.
+The three macros are: ds-let, ds-set! and ds-define.
 
 The destruction binding in the arc style work in the following way:
 (ds-let argument lst body ...)
