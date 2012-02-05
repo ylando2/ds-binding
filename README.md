@@ -2,7 +2,7 @@ ds-binding
 =========================
 
 I love the way the arc language destructuring binding work.
-So I build one myself. I try two different approach. I thing that the
+So I build one myself. I try two different approach. I think that the
 more functional is faster.
 
 In this module there are three macros in two different versions.
