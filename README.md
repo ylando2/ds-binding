@@ -1,7 +1,7 @@
 ds-binding
 =========================
 
-I love the way the arc language destruction binding work.
+I love the way the arc language destructuring binding work.
 So I build one myself. I try two different approach. I thing that the
 more functional is faster.
 
